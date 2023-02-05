@@ -11,7 +11,7 @@ Patrizio Germani matricola: 1793486 <germani.1793486@studenti.uniroma1.it>
 
 Daniele Fasano matricola: 1815182 <fasano.1815182@studenti.uniroma1.it>
 
-Sistema operativo
+Sistema Operativo
 =========
 L'applicativo che abbiamo realizzato è funzionante sia in Windows che in macOS, ma è consigliato in Windows, in quanto si riesce a visualizzare una grafica migliore.
 
