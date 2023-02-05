@@ -5,11 +5,11 @@ COPYRIGHT
 =========
 Copyright 2021 -    
 
-Alessia Ciarla matricola: 1814975 <ciarla.1814975@studenti.uniroma1.it>,
+Alessia Ciarla matricola: 1814975 <ciarla.1814975@studenti.uniroma1.it>
 
-Patrizio Germani matricola: 1793486 <germani.1793486@studenti.uniroma1.it>,
+Patrizio Germani matricola: 1793486 <germani.1793486@studenti.uniroma1.it>
 
-Daniele Fasano matricola: 1815182 <fasano.1815182@studenti.uniroma1.it>.
+Daniele Fasano matricola: 1815182 <fasano.1815182@studenti.uniroma1.it>
 
 SISTEMA OPERATIVO
 =========
@@ -25,4 +25,4 @@ Per visualizzare la schermata d'inizio, è necessario aprire la classe TesterRis
 
 VERSIONE
 =========
-La versione di Java utilizzata per il progetto è la 8.0.2810.9 .
+La versione di Java utilizzata per il progetto è la 8.0.2810.9 
