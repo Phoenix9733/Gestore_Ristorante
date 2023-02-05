@@ -5,11 +5,11 @@ COPYRIGHT
 =========
 Copyright 2021 -    
 
-Alessia Ciarla 1814975 <ciarla.1814975@studenti.uniroma1.it>,
+Alessia Ciarla matricola: 1814975 e-mail: <ciarla.1814975@studenti.uniroma1.it>,
 
-Patrizio Germani 1793486 <germani.1793486@studenti.uniroma1.it>,
+Patrizio Germani matricola: 1793486 e-mail: <germani.1793486@studenti.uniroma1.it>,
 
-Daniele Fasano 1815182 <fasano.1815182@studenti.uniroma1.it>.
+Daniele Fasano matricola: 1815182 e-mail: <fasano.1815182@studenti.uniroma1.it>.
 
 SISTEMA OPERATIVO
 =========
