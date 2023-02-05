@@ -4,8 +4,11 @@ Gestore di un piccolo ristorante con lo scopo di digitalizzare la gestione delle
 COPYRIGHT
 =========
 Copyright 2021 -    
-Alessia Ciarla 1814975 <ciarla.1814975@studenti.uniroma1.it>, 
-Patrizio Germani 1793486 <germani.1793486@studenti.uniroma1.it>, 
+
+Alessia Ciarla 1814975 <ciarla.1814975@studenti.uniroma1.it>,
+
+Patrizio Germani 1793486 <germani.1793486@studenti.uniroma1.it>,
+
 Daniele Fasano 1815182 <fasano.1815182@studenti.uniroma1.it>.
 
 SISTEMA OPERATIVO
@@ -14,7 +17,7 @@ L'applicativo che abbiamo realizzato è funzionante sia in Windows che in macOS,
 
 CODIFICA
 =========
-Al fine di riuscire a visualizzare i simboli dell'applicazione nel modo corretto(ad esempio il simbolo dell'euro, "€"), è necessario impostare il Text File Encoding in UTF-8.
+Al fine di riuscire a visualizzare i simboli dell'applicazione nel modo corretto (ad esempio il simbolo dell'euro, "€"), è necessario impostare il Text File Encoding in UTF-8.
 
 ISTRUZIONI
 =========
