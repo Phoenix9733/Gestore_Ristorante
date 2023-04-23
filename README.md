@@ -1,5 +1,5 @@
 # Gestore_Ristorante
-Gestore di un piccolo ristorante con lo scopo di digitalizzare la gestione delle ordinazioni e l’emissione degli scontrini.
+Gestore di un piccolo ristorante con lo scopo di digitalizzare la gestione delle ordinazioni e l’emissione degli scontrini. Il progetto è stato realizzato per l'esame di "Metodologie di programmazione" del corso di studi "Informatica" a.a. 2020/2021 presso La Sapienza.
 
 Copyright
 =========
